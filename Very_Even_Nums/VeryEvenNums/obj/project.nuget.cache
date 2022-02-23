@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7qCfPkNc+ZQIMvlBeDnUPACnQqDfXmUWrxGTLyVz5Zn5Ibrtm0bYIcPSK8tt/mAnvGu/sRVMfgsG7Cb1UHjYhw==",
+  "dgSpecHash": "zd+FEMyOnxbu/xIrTciS5u8sYwR9lXEAVFZ4+uJEVRna7N9L1qP0dU9fk31DzW1an5+Wnw3NnrQ7CCWFU/Ny3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sonia.huang59\\Documents\\GitHub\\VeryEvenNums\\VeryEvenNums\\VeryEvenNums.csproj",
+  "projectFilePath": "C:\\Users\\sonia.huang59\\Documents\\GitHub\\Very_Even_Nums\\VeryEvenNums\\VeryEvenNums.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sonia.huang59\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",
     "C:\\Users\\sonia.huang59\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sonia.huang59\\Documents\\GitHub\\VeryEvenNums\\VeryEvenNums\\VeryEvenNums.csproj": {}
+    "C:\\Users\\sonia.huang59\\Documents\\GitHub\\Very_Even_Nums\\VeryEvenNums\\VeryEvenNums.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sonia.huang59\\Documents\\GitHub\\VeryEvenNums\\VeryEvenNums\\VeryEvenNums.csproj": {
+    "C:\\Users\\sonia.huang59\\Documents\\GitHub\\Very_Even_Nums\\VeryEvenNums\\VeryEvenNums.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sonia.huang59\\Documents\\GitHub\\VeryEvenNums\\VeryEvenNums\\VeryEvenNums.csproj",
+        "projectUniqueName": "C:\\Users\\sonia.huang59\\Documents\\GitHub\\Very_Even_Nums\\VeryEvenNums\\VeryEvenNums.csproj",
         "projectName": "VeryEvenNums",
-        "projectPath": "C:\\Users\\sonia.huang59\\Documents\\GitHub\\VeryEvenNums\\VeryEvenNums\\VeryEvenNums.csproj",
+        "projectPath": "C:\\Users\\sonia.huang59\\Documents\\GitHub\\Very_Even_Nums\\VeryEvenNums\\VeryEvenNums.csproj",
         "packagesPath": "C:\\Users\\sonia.huang59\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sonia.huang59\\Documents\\GitHub\\VeryEvenNums\\VeryEvenNums\\obj\\",
+        "outputPath": "C:\\Users\\sonia.huang59\\Documents\\GitHub\\Very_Even_Nums\\VeryEvenNums\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
